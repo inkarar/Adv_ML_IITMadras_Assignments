@@ -8,3 +8,4 @@ E-Commerce Assignment using Hive, Hadoop and AWS
 
 Credit EDA Case study using Python and Data science libs like pandas, numpy, matplotlib, seaborn, sklearn, etc.
 
+Ecommerce Churn prediction using Logistic Regression, Decision Tree and Random Forest in PySpark
